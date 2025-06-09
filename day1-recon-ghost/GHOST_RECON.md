@@ -1,3 +1,11 @@
+## OPSEC/Anonymity Notes
+
+- Cloak activated using Tor and proxychains.
+- Tor exit IP at session start: 185.220.101.42
+- All recon performed through anonymized proxychains for maximum privacy.
+- VPN option: Not available during this session. (Update this if/when you use a VPN instead.)
+
+
 # Day 1: Recon Ghost Report
 
 ## Target Domain: example.com
