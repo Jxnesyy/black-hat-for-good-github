@@ -1,0 +1,1 @@
+Enter target domain (e.g. example.com): 
