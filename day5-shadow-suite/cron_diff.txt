@@ -1,0 +1,21 @@
+
+/etc/cron.d:
+total 36
+
+/etc/cron.daily:
+total 60
+
+/etc/cron.hourly:
+total 20
+
+/etc/cron.monthly:
+total 20
+
+/etc/cron.weekly:
+total 28
+
+/etc/cron.yearly:
+total 20
+
+/var/spool/cron/crontabs:
+total 8
