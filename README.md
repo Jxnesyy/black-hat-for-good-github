@@ -1,5 +1,6 @@
 # Black Hat for Good: The Ethical Hacker’s Challenge
 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jxnesy_x27/)
 ![MIT license](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
