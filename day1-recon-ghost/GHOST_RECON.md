@@ -1,3 +1,5 @@
+# Day 1: Ghost Recon — Passive Reconnaissance & OPSEC
+
 ## OPSEC/Anonymity Notes
 
 - Cloak activated using Tor and proxychains.
@@ -8,7 +10,7 @@
 
 # Day 1: Recon Ghost Report
 
-## Target Domain: example.com
+Target Domain: example.com
 
 ---
 
