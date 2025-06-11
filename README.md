@@ -42,6 +42,21 @@ A **5-day hands-on cybersecurity journey** that immerses you in the offensive ha
 
 ---
 
+## 🚦 Practice Targets (Legal & Safe)
+
+> _Learning cybersecurity should never put you at risk! All examples in this guide use globally accepted, 100% legal practice targets. Never scan, exploit, or probe systems you don’t own or have written permission to test!
+
+| Day    | Tools Used                      | Legal Target(s)                                        | Example Command(s)                                                                      |
+|--------|---------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Day 1  | nmap, ping, traceroute          | [scanme.nmap.org](https://nmap.org/book/inst-windows.html#inst-win-exec-scanme)        | `nmap -A scanme.nmap.org`<br>`ping scanme.nmap.org`<br>`traceroute scanme.nmap.org`     |
+| Day 2  | whatweb, nikto, dirb            | [testphp.vulnweb.com](http://testphp.vulnweb.com/),<br>[demo.testfire.net](http://demo.testfire.net/) | `whatweb http://testphp.vulnweb.com/`<br>`nikto -h http://testphp.vulnweb.com/`<br>`dirb http://testphp.vulnweb.com/` |
+| Day 3  | OSINT/email tools               | `janedoe@example.com`, `example.com`, `testuser`       | `theharvester -d example.com -b all`                                                    |
+| Day 4  | metasploit, exploit modules     | Your own [Metasploitable2](https://sourceforge.net/projects/metasploitable/) VM,<br>[bWAPP](https://sourceforge.net/projects/bwapp/), [DVWA](https://dvwa.co.uk/) | _see daily example_                                                                     |
+| Day 5  | Reporting, markdown, screenshots| Use your own legal findings/results from above          | _see daily example_                                                                     |
+
+---
+
+
 ## 🛠️ Prerequisites
 
 | Requirement   | Details / Version                |
@@ -208,4 +223,4 @@ Copy
 - Copy-paste the above, then save.
 - `git add README.md && git commit -m "docs: professionalize README structure" && git push`
 
-**You got this!** This new format will make your project shine for recruiters, collaborators, and aspiring ethical hackers everywhere. 🚀
+**You got this!**This new format will make your project stand out to recruiters, collaborators, and aspiring ethical hackers everywhere. ** 🚀
