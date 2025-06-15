@@ -1,15 +1,15 @@
-# 🕶️ Black Hat for Good: The Ethical Hacker’s Challenge
+🕶️ Black Hat for Good: The Ethical Hacker’s Challenge
 
 **License:** MIT  
 **Platform:** Kali Linux  
 **Status:** Complete & Evolving  
 **Visitors / PRs Welcome!**
 
-A **5-day hands-on cybersecurity journey** that immerses you in the offensive hacker mindset—ethically. Perfect for pentesters, red teamers, and security enthusiasts building a standout portfolio.
+**5-day hands-on cybersecurity journey** that immerses you in the offensive hacker mindset—ethically. Perfect for pentesters, red teamers, and security enthusiasts building a standout portfolio.
 
 ---
 
-## 📖 Table of Contents
+📖 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
@@ -30,7 +30,7 @@ A **5-day hands-on cybersecurity journey** that immerses you in the offensive ha
 
 ---
 
-## 🔍 Project Overview
+🔍 Project Overview
 
 **Black Hat for Good** simulates a full ethical-hacking engagement, with each day pushing you deeper into real-world techniques and workflows:
 
@@ -42,9 +42,9 @@ A **5-day hands-on cybersecurity journey** that immerses you in the offensive ha
 
 ---
 
-## 🚦 Practice Targets (Legal & Safe)
+🚦 Practice Targets (Legal & Safe)
 
-> _Learning cybersecurity should never put you at risk! All examples in this guide use globally accepted, 100% legal practice targets. Never scan, exploit, or probe systems you don’t own or have written permission to test!
+Learning cybersecurity should never put you at risk! All examples in this guide use globally accepted, 100% legal practice targets. Never scan, exploit, or probe systems you don’t own or have written permission to test!
 
 | Day    | Tools Used                      | Legal Target(s)                                        | Example Command(s)                                                                      |
 |--------|---------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ A **5-day hands-on cybersecurity journey** that immerses you in the offensive ha
 ---
 
 
-## 🛠️ Prerequisites
+🛠️ Prerequisites
 
 | Requirement   | Details / Version                |
 | ------------- | ------------------------------- |
@@ -72,10 +72,10 @@ A **5-day hands-on cybersecurity journey** that immerses you in the offensive ha
 
 ---
 
-## 💾 Installation
+💾 Installation
 
 ```bash
-# Clone the repository
+ # Clone the repository
 git clone https://github.com/Jxnesyy/black-hat-for-good-github.git
 cd black-hat-for-good-github
 
